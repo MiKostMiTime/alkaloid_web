@@ -1,0 +1,897 @@
+.group-child {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: #f1faff;
+  border: 2px solid #000;
+  box-sizing: border-box;
+  width: 1728px;
+  height: 310px;
+}
+.group-item {
+  position: absolute;
+  top: 233.29px;
+  left: 304.41px;
+  width: 1053.6px;
+  height: 40.3px;
+}
+.song {
+  position: absolute;
+  top: 62.09px;
+  left: 28.7px;
+  font-weight: 500;
+  display: inline-block;
+  width: 42.8px;
+}
+.about-us {
+  position: absolute;
+  top: 28.62px;
+  left: 28.68px;
+  font-weight: 500;
+  display: inline-block;
+  width: 77.6px;
+}
+.home {
+  position: absolute;
+  top: -0.38px;
+  left: 28.68px;
+  font-weight: 500;
+  display: inline-block;
+  width: 48.4px;
+}
+.song-parent {
+  position: absolute;
+  top: 70.38px;
+  left: 737.61px;
+  width: 93.2px;
+  height: 59.3px;
+}
+.support-the-artist {
+  position: absolute;
+  top: 7.09px;
+  left: 57.2px;
+  font-size: 20px;
+  display: inline-block;
+  width: 185px;
+}
+.youtube-music {
+  position: absolute;
+  top: 43.09px;
+  left: 56.7px;
+  font-weight: 500;
+  display: inline-block;
+  width: 118.1px;
+}
+.spotify {
+  position: absolute;
+  top: 72.09px;
+  left: 56.7px;
+  font-weight: 500;
+  display: inline-block;
+  width: 60.8px;
+}
+.apple-music {
+  position: absolute;
+  top: 101.09px;
+  left: 56.7px;
+  font-weight: 500;
+  display: inline-block;
+  width: 97.9px;
+}
+.support-the-artist-parent {
+  position: absolute;
+  top: 39.54px;
+  left: 1300.71px;
+  width: 222px;
+  height: 90.2px;
+}
+.ensemble-square-logo-1-icon {
+  position: absolute;
+  top: 221px;
+  left: 252.42px;
+  width: 86.8px;
+  height: 72px;
+  object-fit: cover;
+}
+.starmaker-logo-1-icon {
+  position: absolute;
+  top: 206px;
+  left: 124.71px;
+  width: 91.8px;
+  height: 87px;
+  object-fit: cover;
+}
+.characters {
+  position: absolute;
+  top: 4.09px;
+  left: 29.2px;
+  font-size: 20px;
+  display: inline-block;
+  width: 112px;
+}
+.hiiro-amagi {
+  position: absolute;
+  top: 40.09px;
+  left: 28.7px;
+  font-weight: 500;
+  display: inline-block;
+  width: 86.6px;
+}
+.aira-shiratori {
+  position: absolute;
+  top: 69.09px;
+  left: 28.7px;
+  font-weight: 500;
+  display: inline-block;
+  width: 100.1px;
+}
+.mayoi-ayase {
+  position: absolute;
+  top: 98.09px;
+  left: 28.7px;
+  font-weight: 500;
+  display: inline-block;
+  width: 97.9px;
+}
+.tatsumi-kazehaya {
+  position: absolute;
+  top: 127.09px;
+  left: 28.7px;
+  font-weight: 500;
+  display: inline-block;
+  width: 138.4px;
+}
+.characters-parent {
+  position: absolute;
+  top: 41.91px;
+  left: 1031.91px;
+  width: 166.1px;
+  height: 110.7px;
+}
+.group-inner {
+  position: absolute;
+  top: 41.26px;
+  left: 133.85px;
+  width: 399.6px;
+  height: 117.8px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 1946px;
+  left: 0px;
+  width: 1728px;
+  height: 310px;
+  font-size: 14px;
+}
+.the-meaning-of {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-weight: 900;
+  display: inline-block;
+  width: 428px;
+}
+.frame-child {
+  position: absolute;
+  top: 282px;
+  left: 297px;
+  border-radius: 20px;
+  background-color: #d9d9d9;
+  width: 631px;
+  height: 399px;
+}
+.the-logo-of {
+  position: absolute;
+  top: 306px;
+  left: 319px;
+  font-size: 16px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  text-align: justify;
+  display: inline-block;
+  width: 584px;
+}
+.the-meaning-of-our-logo-parent {
+  position: absolute;
+  top: 0px;
+  left: 404px;
+  width: 928px;
+  height: 681px;
+}
+.alkaloid-unit-1-icon {
+  position: absolute;
+  top: 328px;
+  left: 0px;
+  width: 504px;
+  height: 272px;
+  object-fit: cover;
+}
+.frame-parent {
+  position: absolute;
+  top: 1048px;
+  left: 246px;
+  width: 1332px;
+  height: 681px;
+  font-family: Spartan;
+}
+.px-morphin-morphine-1-icon {
+  position: absolute;
+  top: 225px;
+  left: 959px;
+  width: 220px;
+  height: 187px;
+  object-fit: cover;
+}
+.our-name-philosophy {
+  position: absolute;
+  top: 0px;
+  left: 441px;
+  font-weight: 900;
+}
+.frame-item {
+  position: absolute;
+  top: 188px;
+  left: 0px;
+  border-radius: 20px;
+  background-color: #d9d9d9;
+  width: 580px;
+  height: 279px;
+}
+.the-name-alkaloid {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.blank-line {
+  margin: 0;
+}
+.the-name-alkaloid-container {
+  position: absolute;
+  top: 242px;
+  left: 86px;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: justify;
+  display: inline-block;
+  width: 408px;
+}
+.our-name-philosophy-parent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 802px;
+  height: 467px;
+}
+.px-morphin-morphine-1-parent {
+  position: absolute;
+  top: 190px;
+  left: 242px;
+  width: 1179px;
+  height: 467px;
+  font-family: Spartan;
+}
+.instance-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  background-color: #faf9f6;
+}
+.home1 {
+  width: 64px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  height: 30px;
+  flex-shrink: 0;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.div {
+  width: 100px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  height: 29.2px;
+  flex-shrink: 0;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.div1 {
+  width: 56px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  height: 29.2px;
+  flex-shrink: 0;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.home-parent {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 296px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.frame-wrapper {
+  position: absolute;
+  top: 24px;
+  right: 213px;
+  width: 296px;
+  height: 30px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1728px;
+  height: 80px;
+}
+.alkaloid-es-logo-2-icon {
+  position: absolute;
+  top: 13px;
+  left: 120px;
+  width: 238px;
+  height: 55px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.instance-parent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1728px;
+  height: 80px;
+  font-size: 22px;
+}
+.macbook-pro-16-1-child {
+  position: absolute;
+  top: 855px;
+  left: 0px;
+  background-color: #d9d9d9;
+  width: 1728px;
+  height: 100px;
+}
+.macbook-pro-16-1 {
+  width: 100%;
+  position: relative;
+  background-color: #2bb7ca;
+  height: 2256px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 26px;
+  color: #02020a;
+  font-family: Inter;
+}
+@media (max-width: 1024px) {
+  .nav-child {
+  	width: 1024.5px;
+  	position: relative;
+  	background-color: #faf9f6;
+  	height: 80px;
+  	z-index: 0;
+}
+.home {
+  	width: 64px;
+  	position: relative;
+  	font-weight: 600;
+  	display: inline-block;
+  	height: 30px;
+  	flex-shrink: 0;
+  	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.div {
+  	width: 100px;
+  	position: relative;
+  	font-weight: 600;
+  	display: inline-block;
+  	height: 29.2px;
+  	flex-shrink: 0;
+  	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.div1 {
+  	width: 56px;
+  	position: relative;
+  	font-weight: 600;
+  	display: inline-block;
+  	height: 29.2px;
+  	flex-shrink: 0;
+  	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.home-parent {
+  	margin: 0 !important;
+  	position: absolute;
+  	top: 25px;
+  	right: 128.25px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 24px;
+  	z-index: 1;
+}
+.alkaloid-es-logo-1-icon {
+  	width: 238px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 12px;
+  	left: 67.75px;
+  	height: 55px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	object-fit: cover;
+  	z-index: 2;
+}
+.nav1 {
+  	position: absolute;
+  	top: 0px;
+  	right: 0px;
+  	width: 1025px;
+  	display: flex;
+  	flex-direction: row;
+  	flex-wrap: wrap;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 10px;
+}
+.nav-wrapper {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1024px;
+  	height: 80px;
+}
+.nav {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1024px;
+  	height: 80px;
+  	max-width: 1024px;
+}
+.ipad-pro-129-1-child {
+  	position: absolute;
+  	top: 2849px;
+  	left: 22px;
+  	width: 980px;
+  	height: 253px;
+}
+.ipad-pro-129-1-item {
+  	position: absolute;
+  	top: 3989.5px;
+  	left: 72px;
+  	width: 836px;
+  	height: 124px;
+}
+.alkaloid-es-logo-1-icon1 {
+  	width: 238px;
+  	position: relative;
+  	height: 55px;
+  	object-fit: cover;
+}
+.frame-child {
+  	width: 333px;
+  	position: relative;
+  	height: 0px;
+}
+.spotify-icon {
+  	width: 33px;
+  	position: relative;
+  	height: 33px;
+  	object-fit: cover;
+}
+.vector-icon {
+  	width: 33px;
+  	position: relative;
+  	height: 33px;
+}
+.alkaloid-es-logo-1-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: 266px;
+  	width: 332px;
+  	height: 115px;
+  	display: flex;
+  	flex-direction: row;
+  	flex-wrap: wrap;
+  	align-items: center;
+  	justify-content: center;
+  	gap: 18px 47px;
+}
+.alkaloid-web-is-non-commercial {
+  	margin: 0;
+}
+.alkaloid-web-is-non-commercial-container {
+  	position: absolute;
+  	top: 462px;
+  	left: 14px;
+  	display: inline-block;
+  	text-align: center;
+  	width: 836px;
+  	height: 51px;
+}
+.support-the-artist {
+  	position: absolute;
+  	top: 7.09px;
+  	left: 57.2px;
+  	font-size: 20px;
+  	display: inline-block;
+  	width: 185px;
+}
+.youtube-music {
+  	position: absolute;
+  	top: 43.09px;
+  	left: 56.7px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 118.1px;
+}
+.spotify {
+  	position: absolute;
+  	top: 72.09px;
+  	left: 56.7px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 60.8px;
+}
+.apple-music {
+  	position: absolute;
+  	top: 101.09px;
+  	left: 56.7px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 97.9px;
+}
+.support-the-artist-parent {
+  	position: absolute;
+  	top: 190px;
+  	right: 24.1px;
+  	width: 222.5px;
+  	height: 90.2px;
+}
+.song {
+  	position: absolute;
+  	top: 62.09px;
+  	left: 28.7px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 42.8px;
+}
+.about-us {
+  	position: absolute;
+  	top: 28.62px;
+  	left: 28.68px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 77.6px;
+}
+.home1 {
+  	position: absolute;
+  	top: -0.38px;
+  	left: 28.68px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 48.4px;
+}
+.song-parent {
+  	position: absolute;
+  	top: 220.84px;
+  	right: 717.6px;
+  	width: 93.4px;
+  	height: 59.3px;
+}
+.starmaker-logo-1-icon {
+  	width: 92px;
+  	position: relative;
+  	height: 87px;
+  	object-fit: cover;
+}
+.ensemble-square-logo-1-icon {
+  	width: 87px;
+  	position: relative;
+  	height: 72px;
+  	object-fit: cover;
+}
+.starmaker-logo-1-parent {
+  	position: absolute;
+  	top: 579px;
+  	left: 0px;
+  	width: 224px;
+  	display: flex;
+  	flex-direction: row;
+  	flex-wrap: wrap;
+  	align-items: flex-end;
+  	justify-content: flex-start;
+  	gap: 36px;
+}
+.frame-parent {
+  	position: absolute;
+  	top: 4018px;
+  	left: 80px;
+  	width: 850px;
+  	height: 666px;
+  	font-size: 14px;
+}
+.ipad-pro-129-1 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #2bb7ca;
+  	height: 3424px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 22px;
+  	color: #02020a;
+  	font-family: Inter;
+}
+
+
+}
+@media (max-width: 460px) {
+  .group-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 430px;
+  	height: 639px;
+}
+.alkaloid-es-logo-1-icon {
+  	width: 238px;
+  	position: relative;
+  	height: 55px;
+  	object-fit: cover;
+}
+.frame-child {
+  	width: 333px;
+  	position: relative;
+  	max-height: 100%;
+}
+.spotify-icon {
+  	width: 33px;
+  	position: relative;
+  	height: 33px;
+  	object-fit: cover;
+}
+.vector-icon {
+  	width: 33px;
+  	position: relative;
+  	height: 33px;
+}
+.alkaloid-es-logo-1-parent {
+  	position: absolute;
+  	top: 28px;
+  	left: 48px;
+  	width: 332px;
+  	height: 115px;
+  	display: flex;
+  	flex-direction: row;
+  	flex-wrap: wrap;
+  	align-items: center;
+  	justify-content: center;
+  	gap: 18px 47px;
+}
+.home {
+  	width: 48.4px;
+  	position: relative;
+  	font-weight: 500;
+  	display: inline-block;
+  	flex-shrink: 0;
+}
+.song {
+  	width: 42.8px;
+  	position: relative;
+  	font-weight: 500;
+  	display: inline-block;
+  	flex-shrink: 0;
+}
+.about-us {
+  	width: 77.6px;
+  	position: relative;
+  	font-weight: 500;
+  	display: inline-block;
+  	flex-shrink: 0;
+}
+.home-parent {
+  	position: absolute;
+  	top: 214px;
+  	left: 95px;
+  	display: flex;
+  	flex-direction: row;
+  	flex-wrap: wrap;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 45px;
+}
+.alkaloid-web-is-non-commercial {
+  	margin: 0;
+}
+.alkaloid-web-is-non-commercial-container {
+  	position: absolute;
+  	top: 324px;
+  	left: 19px;
+  	display: inline-block;
+  	text-align: center;
+  	width: 390px;
+  	height: 102px;
+}
+.starmaker-logo-1-icon {
+  	width: 92px;
+  	position: relative;
+  	height: 87px;
+  	object-fit: cover;
+}
+.ensemble-square-logo-1-icon {
+  	width: 87px;
+  	position: relative;
+  	height: 72px;
+  	object-fit: cover;
+}
+.starmaker-logo-1-parent {
+  	position: absolute;
+  	top: 542px;
+  	left: 22px;
+  	width: 224px;
+  	display: flex;
+  	flex-direction: row;
+  	flex-wrap: wrap;
+  	align-items: flex-end;
+  	justify-content: flex-start;
+  	gap: 38px;
+}
+.vector-parent {
+  	position: absolute;
+  	top: 2708px;
+  	left: 0px;
+  	width: 430px;
+  	height: 639px;
+  	font-size: 14px;
+  	font-family: Inter;
+}
+.instance-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	background-color: #faf9f6;
+}
+.nav-inner {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 431px;
+  	height: 80px;
+}
+.alkaloid-es-logo-1-icon1 {
+  	position: absolute;
+  	top: 13px;
+  	left: 22px;
+  	width: 238px;
+  	height: 55px;
+  	overflow: hidden;
+  	object-fit: cover;
+}
+.menu-icon {
+  	position: absolute;
+  	top: 15px;
+  	left: 347px;
+  	width: 50px;
+  	height: 50px;
+  	object-fit: cover;
+}
+.nav-parent {
+  	position: absolute;
+  	top: 0px;
+  	right: 0px;
+  	width: 431px;
+  	height: 80px;
+}
+.px-morphin-morphine-1-icon {
+  	position: absolute;
+  	top: 789px;
+  	left: 57px;
+  	width: 315px;
+  	height: 278px;
+  	object-fit: cover;
+}
+.our-name-philosophy {
+  	position: absolute;
+  	top: 188px;
+  	left: 34px;
+  	font-weight: 900;
+}
+.iphone-14-15-pro-max-1-child {
+  	position: absolute;
+  	top: 344px;
+  	left: 31px;
+  	border-radius: 20px;
+  	background-color: #d9d9d9;
+  	width: 367px;
+  	height: 349px;
+}
+.the-name-alkaloid {
+  	margin: 0;
+  	white-space: pre-wrap;
+}
+.the-name-alkaloid-container {
+  	position: absolute;
+  	top: 379px;
+  	left: 86px;
+  	font-size: 16px;
+  	font-weight: 600;
+  	text-align: justify;
+  	display: inline-block;
+  	width: 257px;
+  	height: 256px;
+}
+.the-meaning-of {
+  	position: absolute;
+  	top: 16px;
+  	left: 295.5px;
+  	font-weight: 900;
+  	display: inline-block;
+  	width: 270px;
+}
+.frame-item {
+  	position: absolute;
+  	top: 186px;
+  	left: 236.5px;
+  	border-radius: 20px;
+  	background-color: #d9d9d9;
+  	width: 388px;
+  	height: 643px;
+}
+.the-logo-of {
+  	position: absolute;
+  	top: 211px;
+  	left: 250.5px;
+  	font-size: 16px;
+  	font-weight: 600;
+  	white-space: pre-wrap;
+  	text-align: justify;
+  	display: inline-block;
+  	width: 359px;
+  	height: 593px;
+}
+.the-meaning-of-our-logo-parent {
+  	width: 928px;
+  	position: relative;
+  	height: 681px;
+}
+.iphone-14-15-pro-max-1-inner {
+  	position: absolute;
+  	top: 1385px;
+  	left: -124px;
+  	width: 749px;
+  	display: flex;
+  	flex-direction: row;
+  	flex-wrap: wrap;
+  	align-items: flex-end;
+  	justify-content: center;
+  	text-align: center;
+}
+.alkaloid-unit-1-icon {
+  	position: absolute;
+  	top: 2337px;
+  	left: 28px;
+  	width: 374px;
+  	height: 224px;
+  	object-fit: cover;
+}
+.iphone-14-15-pro-max-1 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #2bb7ca;
+  	height: 3347px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 26px;
+  	color: #02020a;
+  	font-family: Spartan;
+}
+}
